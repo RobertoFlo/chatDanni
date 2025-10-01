@@ -60,7 +60,7 @@ microservicio-chat
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas :D
+Las contribuciones son bienvenidas :D  🐸🐸🐸🐸
 
 ## Licencia
 
